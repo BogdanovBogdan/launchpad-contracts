@@ -9,7 +9,7 @@ import dotenv from 'dotenv'
 dotenv.config()
 
 // You need to export an object to set up your config
-// Go to https://hardhat.org/config/ to learn more
+// Go to https://hardhat.org/config/ to learn more 
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
