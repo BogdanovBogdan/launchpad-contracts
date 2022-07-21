@@ -6,6 +6,8 @@ import {
   getGasUsed,
   mineNext,
   mineTimeDelta,
+  minePause,
+  mineStart,
   setAutomine,
 } from './helpers'
 import { SignerWithAddress } from '@nomiclabs/hardhat-ethers/signers'
