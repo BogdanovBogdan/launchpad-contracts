@@ -21,6 +21,6 @@ jobs:
         with:
           version: nightly
 
+      - run: forge install
       - name: Run tests
-        run: forge install
         run: forge test -vvv
